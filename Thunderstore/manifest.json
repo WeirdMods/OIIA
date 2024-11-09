@@ -1,0 +1,11 @@
+{
+    "name": "OIIA",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/WeirdMods/OIIA",
+    "description": "Adds the OIIA OOIIA cat as a collectable scrap. It can spin !",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Evaisa-LethalLib-0.16.1",
+        "BMX-LobbyCompatibility-1.2.0"
+    ]
+}
